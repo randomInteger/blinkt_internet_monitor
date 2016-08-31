@@ -6,7 +6,7 @@ Code adapted from https://github.com/pimoroni/blinkt
 Install into "/home/pi/Pimoroni/blinkt/examples" after installing blinkt from
 the link above.
 
-Launch on boot by adding the following to "crontab -e":
+Launch on boot by adding the following to "crontab -e":    
 @reboot python /home/pi/Pimoroni/blinkt/examples/inet_monitor.py &
 
 Kill via shutdown script with:
