@@ -9,7 +9,7 @@ the link above.
 Launch on boot by adding the following to "crontab -e":    
 @reboot python /home/pi/Pimoroni/blinkt/examples/inet_monitor.py &
 
-Kill via shutdown script with:
+Kill via shutdown script with:    
 pgrep -f /home/pi/Pimoroni/blinkt/examples/inet_monitor.py | xargs kill -SIGINT
 
 Tested on Rpi3 with Pimoroni blinkt with Raspbian GNU/Linux 8 (jessie).
