@@ -20,4 +20,4 @@ Shown in the video is the boot and shutdown sequence, note that the monitor goes
 
 This script catches SIGINT to shutdown cleanly so the LEDs do not stay lit when the OS is in shutdown.
 
-[linkname](https://www.youtube.com/watch?v=_w-22ylveE4)
+[https://www.youtube.com/watch?v=_w-22ylveE4](https://www.youtube.com/watch?v=_w-22ylveE4)
